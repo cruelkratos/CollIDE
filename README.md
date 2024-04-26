@@ -6,3 +6,5 @@
 * Open another terminal and run ***node socket.js***
 * Open another terminal and run ***node server.js***
 * Go to http://localhost:3000/ on your web browser.
+
+too lazy to add screenshots and design techniques kindly view the report attached for that :)
